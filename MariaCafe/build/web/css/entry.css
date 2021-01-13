@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 5, 2018, 3:23:05 PM
+    Author     : hoaktse05446
+*/
+
+
+.banner{
+    flex-basis: 100%;
+}
+
+.banner  img{
+    max-height: 198px;
+    max-width: 185px;
+    border-radius: 10px;
+    margin: 15px;
+    margin-left: 0px;
+    float: left;
+}
+
+.banner-content{
+    margin-top: -17px;
+}
+
+.banner-content h2{
+    font-family: serif;
+}
+
+.entry{
+    flex-basis: 100%;
+    display: flex;
+    margin: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.separator{
+    flex-basis: 2%;
+}
+
+.product{
+    flex-basis: 49%;
+}
+
+.product a{
+    color: black;
+    text-decoration: none;
+}
+
+.product a:hover{
+    text-decoration: underline;
+}
+
+h2{
+    font-family: serif;
+}
+
+.product img{
+    max-height: 457px;
+    max-width: 350px;
+    border-radius: 10px;
+}
+
+.no-border .cake{
+    border-bottom: none;
+}
+
+.welcome, .signature{
+    flex-basis: 100%;
+}
+
+
+
+

@@ -1,0 +1,91 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 24, 2018, 2:11:56 AM
+    Author     : HoaPC
+*/
+
+/*--account--*/
+h2.account-in{
+    color:#747272;
+    font-size:1.3em;
+    padding:0 0em 2em;
+}
+h2.account-in:after{ 
+    content: "";
+    background: url(../images/line.png)0px 0px;
+    width: 92%;
+    height: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.account span{
+    font-size:1.1em;
+    padding-right: 1.85em;
+}
+span.name-in {
+    padding-right: 2em;
+}
+span.mail{
+    padding-right: 4.2em;
+}
+span.word{
+    padding-right: 2.2em;
+}
+.account div{
+    padding:1em 0;
+}
+.account input[type="text"],.account textarea,.account input[type="password"]{
+    padding:0.7em;
+    width:60%;
+    background:none;
+    border: 1px solid #D1D1D1;
+    border-radius:10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    outline:none;
+    color:#464646;
+    font-size:1em;	
+}
+.account textarea{
+    resize:none;
+    height:60px;		
+}
+.account input[type="submit"]{
+    background: rgb(252,94,53);
+    background: -moz-linear-gradient(top, rgba(252,94,53,1) 55%, rgba(252,94,53,1) 55%, rgba(233,71,34,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(55%,rgba(252,94,53,1)), color-stop(55%,rgba(252,94,53,1)), color-stop(100%,rgba(233,71,34,1)));
+    background: -webkit-linear-gradient(top, rgba(252,94,53,1) 55%,rgba(252,94,53,1) 55%,rgba(233,71,34,1) 100%);
+    background: -o-linear-gradient(top, rgba(252,94,53,1) 55%,rgba(252,94,53,1) 55%,rgba(233,71,34,1) 100%);
+    background: -ms-linear-gradient(top, rgba(252,94,53,1) 55%,rgba(252,94,53,1) 55%,rgba(233,71,34,1) 100%);
+    background: linear-gradient(to bottom, rgba(252,94,53,1) 55%,rgba(252,94,53,1) 55%,rgba(233,71,34,1) 100%);
+    color:#fff;
+    font-size:1.1em;
+    border:none;
+    outline:none;
+    border-radius: 5px;
+    font-weight: 600;
+    padding:0.5em 1em;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    margin: 0 0 0 7em;
+}
+.account input[type="submit"]:hover{
+    background: rgb(157,218,216);
+    background: -moz-linear-gradient(top, rgba(157,218,216,1) 52%, rgba(119,168,164,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(52%,rgba(157,218,216,1)), color-stop(100%,rgba(119,168,164,1)));
+    background: -webkit-linear-gradient(top, rgba(157,218,216,1) 52%,rgba(119,168,164,1) 100%);
+    background: -o-linear-gradient(top, rgba(157,218,216,1) 52%,rgba(119,168,164,1) 100%);
+    background: -ms-linear-gradient(top, rgba(157,218,216,1) 52%,rgba(119,168,164,1) 100%);
+    background: linear-gradient(to bottom, rgba(157,218,216,1) 52%,rgba(119,168,164,1) 100%);
+}
+.account{
+    padding: 4em 1em;
+}

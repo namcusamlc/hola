@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 5, 2018, 4:43:30 PM
+    Author     : hoaktse05446
+*/
+
+.cake{
+    margin-bottom: 20px;
+}
+
+.cake a{
+    text-decoration: none;
+    color: black;
+}
+
+.cake a:hover{
+    text-decoration: underline;
+}
+
+.cake img{
+    float: right;
+    max-height: 214px;
+    max-width: 320px;
+    border-radius: 10px;
+    margin: 15px;
+    margin-top: 0px;
+}
+
+.pagger{
+    margin-top: 10px;
+    color: #6D5160;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pagger a{
+    color: black;
+}
+
+hr{
+    height: 1.5px;
+}
+
+
+
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/view/overview.jsp</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/content/menu.jsp</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/view/entry.jsp</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/src/java/dal/DataConfig.java</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/src/java/dal/EntryDAO.java</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/css/entry.css</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/view/aboutMe.jsp</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/src/java/controller/OverviewController.java</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/META-INF/context.xml</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/view/entryDetail.jsp</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/view/home.jsp</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/src/java/controller/EntryDetailController.java</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/content/sidebar.jsp</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/src/java/dal/InformationDAO.java</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/css/style.css</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/css/aboutMe.css</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/content/footer.jsp</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/src/java/controller/AboutMeController.java</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/view/error.jsp</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/css/overview.css</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/src/java/controller/HomeController.java</file>
+            <file>file:/D:/Materials/Class/TERM%209/LABWEB/JavaWeb-master/BloggingAboutMyLife/web/content/header.jsp</file>
+        </group>
+    </open-files>
+</project-private>

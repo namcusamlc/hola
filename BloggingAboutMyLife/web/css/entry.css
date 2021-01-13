@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 24, 2018, 11:30:16 AM
+    Author     : hoaktse05446
+*/
+.normal, .quote, .photo{
+    flex-basis: 100%;
+    margin-top: 25px;
+    border-bottom: 3px dotted #CCCCCC;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.overview{
+    flex-basis: 100%;
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo{
+    flex-basis: 10%;
+    margin: auto;
+    margin-top: 0px;
+}
+
+.item{
+    flex-basis: 90%;
+    margin-bottom: 15px;
+}
+
+.normal .content-item img{
+    float: left;
+    max-height: 199px;
+    max-width: 300px;
+    border-radius: 10px;
+    margin: 15px;
+    margin-left: 0px;
+}
+
+.item a{
+    font-weight: bolder;
+    color: black;
+    font-size: 25px;
+}
+
+.item span{
+    float: right;
+    font-style: italic;
+}
+
+.right{
+    text-align: right;
+}
+
+.quote .content-item p{
+    padding-right: 10px;
+    font-size: 17px;
+    border-right: 3px solid;
+    font-style: italic;
+}
+
+.photo .content-item img{
+    margin-top: 10px;
+    max-height: 423px;
+    max-width: 645px;
+    border-radius: 10px;
+}
+
+.overview a{
+    text-align: center;
+    color: black;
+    flex-basis: 100%;
+}
+

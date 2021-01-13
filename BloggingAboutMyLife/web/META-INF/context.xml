@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/BloggingAboutMyLife">
+    <Environment name="myConnectionURL" value="jdbc:sqlserver://localhost:1433;databaseName=BlogDB" type="java.lang.String"/>
+    <Environment name="sqldriverclass" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" type="java.lang.String"/>
+    <Environment name="databaseUser" value="sa" type="java.lang.String"/>
+    <Environment name="databasePass" value="123456" type="java.lang.String"/>
+    <Environment name="imagePath" value="images" type="java.lang.String"/>
+    <Environment name="pageGap" value="2" type="java.lang.Integer"/>
+    <Environment name="pageSize" value="5" type="java.lang.Integer"/>
+</Context>

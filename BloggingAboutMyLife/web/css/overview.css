@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 24, 2018, 11:36:03 AM
+    Author     : hoaktse05446
+*/
+.container{
+    margin-top: -55px;
+}
+
+.item-overview{
+    flex-basis: 95%;
+    margin-left: 20px;
+}
+
+.date hr{
+    width: 100%;
+}
+
+.date a{
+    display: inline-block;
+    color: black;
+    width: 22%;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.date-right{
+    float: right;
+}
+
+.separator{
+    margin-bottom: 30px;
+}
+
+.pagger{
+    margin-top: 10px;
+    float: right;
+    color: #6D5160;
+}
+
+.pagger a{
+    color: black;
+}
